@@ -67,7 +67,7 @@ function FixSocialIcon() {
           </li>
           <li className="item">
             <a
-              href="https://github.com/salesp07"
+              href="https://github.com/f4eem"
               target="_blank"
               rel="noopener noreferrer"
             >
