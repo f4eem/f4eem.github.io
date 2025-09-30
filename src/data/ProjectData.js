@@ -107,8 +107,8 @@ export const stackList = [
     name: "C",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
-    name: "Java",
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg",
+    name: "PHP",
   },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg",
@@ -127,7 +127,7 @@ export const stackList = [
     name: "Figma",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg",
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg",
     name: "TailwindCSS",
   },
   {
