@@ -75,7 +75,7 @@ function Hero() {
 
           <HeroRight>
             <ScrollAnimation animateIn="fadeIn">
-              <Image src="/faheem_formalpic.png" alt="developer-profile" />
+              <Image src="/faheem_formalpic.jpeg" alt="developer-profile" />
             </ScrollAnimation>
           </HeroRight>
         </HeroWrapper>
