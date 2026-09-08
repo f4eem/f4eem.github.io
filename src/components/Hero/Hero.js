@@ -44,21 +44,23 @@ function Hero() {
                   cursor={true}
                   sequence={[
                     800,
-                    "A Full-Stack Developer.",
+                    "A Software Developer.",
                     1200,
-                    "Specialized in MERN Stack.",
+                    "Focused on Business Data Analytics.",
                     1200,
-                    "Experienced in React Native.",
+                    "Skilled in SQL & Data Systems.",
                     1200,
-                    "Skilled with PHP & CodeIgniter.",
+                    "Experienced in MySQL, REST APIs & Data Synchronization.",
                     1200,
-                    "Currently learning Next.js & TypeScript.",
+                    "Worked across CRM, POS & Business Applications.",
+                    1200,
+                    "Grounded in Python and modern data workflows.",
                     1200,
                     "A problem solver at heart.",
                     1200,
                     "An innovative thinker.",
                     1200,
-                    "Passionate about building modern web & mobile apps.",
+                    "Passionate about turning data into decisions.",
                     500,
                     () => setShowScrollDown(true),
                   ]}
@@ -73,7 +75,7 @@ function Hero() {
 
           <HeroRight>
             <ScrollAnimation animateIn="fadeIn">
-              <Image src="/faheem_casualpic.png" alt="developer-profile" />
+              <Image src="/faheem_formalpic.png" alt="developer-profile" />
             </ScrollAnimation>
           </HeroRight>
         </HeroWrapper>

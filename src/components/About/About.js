@@ -24,34 +24,29 @@ function About() {
 
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-              Hello! My name is <strong>Faheem K M</strong>. I’m a passionate
-              Full-Stack Developer based in Dubai, UAE. Over the past year, I’ve
-              worked on building <strong>scalable web applications with the MERN
-                stack</strong> and <strong>cross-platform mobile apps with React
-                  Native</strong>. I also bring experience in <strong>PHP (CodeIgniter)</strong>,
-              which adds versatility to my development background.
+              Hello! My name is <strong>Faheem K M</strong>. I'm a <strong>Software
+                Developer</strong> with 2 years of hands-on experience working with
+              business applications, databases, REST APIs, <strong>CRM/POS systems</strong>,
+              and data-driven application workflows. I'm currently based in{" "}
+              <strong>Dubai, UAE</strong>, working as an <strong>Application Associate</strong>.
             </ScrollAnimation>
 
             <br /><br />
 
             <ScrollAnimation animateIn="fadeInLeft">
-              My journey in technology began with a strong interest in solving
-              real-world problems through code. Since then, I’ve gained hands-on
-              experience delivering production applications, working on projects
-              like currency exchange platforms, CRM tools, and POS systems. These
-              projects helped me strengthen my skills in both frontend and backend
-              development, while also improving my teamwork and problem-solving
-              abilities.
+              I'm experienced in <strong>MySQL, API integration, data synchronization,
+                application architecture, debugging, and production support</strong>. I've
+              worked on business applications for money exchange operations, including{" "}
+              <strong>CRM, POS, and accounting integrations</strong> — connecting
+              customer, transaction, and operational data across systems.
             </ScrollAnimation>
 
             <br /><br />
 
             <ScrollAnimation animateIn="fadeInLeft">
-              I’m currently expanding my expertise in <strong>Next.js,
-                TypeScript, Redux, and Tailwind CSS</strong> to push my development
-              skills further. I enjoy working collaboratively, building intuitive
-              user interfaces, and creating solutions that balance performance with
-              great user experience.
+              I have a strong interest in <strong>Business Data Analytics and Data
+                Architecture</strong>, with a foundation in <strong>Python and SQL</strong>,
+              and I'm quick to pick up analytics platforms and modern data technologies.
               <div className="tagline2">
                 I have become confident using the following technologies:
               </div>

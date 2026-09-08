@@ -10,22 +10,22 @@ import {
 
 const ExperienceList = [
   {
-    company: "Caxigo Technologies Pvt. Ltd.",
-    role: "Associate Software Developer",
-    duration: "Jun 2024 – May 2025",
-    img: "https://caxigotechnologies.com/img/logo.png", // replace with your image/logo
+    company: "Orbion Technologies LLC",
+    role: "Application Associate",
+    duration: "Oct 2025 – Present",
+    img: "/orbion.png", // replace with your image/logo
     description:
-      "Worked on building MERN and PHP (CodeIgniter) web applications, along with React Native mobile apps. Contributed to CRM and POS software development, optimized performance, and integrated REST APIs.",
-    tech_stack: ["React.js", "React Native", "Node.js", "Express", "MongoDB", "PHP", "CodeIgniter", "MySQL"],
+      "Working with business application data and operational workflows in Dubai, UAE, to support data accuracy, availability, and system performance. Analyzing application data flows and API responses to improve data retrieval efficiency, assisting third-party system integrations, and maintaining documentation across data workflows and application architecture.",
+    tech_stack: ["Data Workflows", "REST APIs", "System Integration", "SQL", "Application Architecture"],
   },
   {
-    company: "Ether Infotech",
-    role: "Frontend Developer Intern",
-    duration: "Jun 2023 – May 2024",
-    img: "https://etherinfotech.com/wp-content/uploads/2025/08/ether-logo.webp", 
+    company: "Caxigo Technologies Pvt. Ltd.",
+    role: "Software Developer",
+    duration: "Jun 2024 – May 2025",
+    img: "https://caxigotechnologies.com/img/logo.png",
     description:
-      "Developed web applications using React.js with a focus on responsive design and performance optimization. Assisted in building React Native mobile features and collaborated in Agile development cycles.",
-    tech_stack: ["React.js", "Redux", "React Native", "JavaScript", "HTML5", "CSS3"],
+      "Developed and maintained data-driven business applications using MySQL, PHP/CodeIgniter, Node.js, and React.js. Worked with customer, operational, and transactional data across CRM, POS, and money-exchange applications, integrating REST APIs and the Xero API, and implementing data synchronization with Firebase and Node.js. Optimized application performance through code optimization and lazy loading, achieving approximately 30% improvement.",
+    tech_stack: ["React.js", "Node.js", "PHP", "CodeIgniter", "MySQL", "Firebase", "REST APIs", "Xero API"],
   },
 ];
 
